@@ -4,16 +4,15 @@
 
 ### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/generador-clave-con-react.png)
+![](https://i.imgur.com/iMm5jVo.png)
 
 #### Demo online
-    https://app-generador-de-password-en-reactjs.vercel.app/
+//----
     
 ### Expresiones de Gratitud 🎁
 
     Comenta a otros sobre este proyecto 📢
-    Invita una cerveza 🍺 o un café ☕
-    Paypal iamdeveloper86@gmail.com
-    Da las gracias públicamente 🤓.
+    Paypal :https://paypal.me/litodroid
+    inicia una donacion para un cafe.
 
-## No olvides SUSCRIBIRTE 👍
+## Puto el quien no done
