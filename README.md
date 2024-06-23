@@ -12,7 +12,8 @@
 ### Expresiones de Gratitud 🎁
 
     Comenta a otros sobre este proyecto 📢
-    Paypal :https://paypal.me/litodroid
+    Paypal : https://paypal.me/litodroid
+    instagram : http://instagram.com/litodroid
     inicia una donacion para un cafe.
 
 ## Puto el quien no done
