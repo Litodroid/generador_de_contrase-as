@@ -9,11 +9,11 @@
 #### Prueba online
 https://generador-de-contrase-as-swart.vercel.app/
     
-### Expresiones de Gratitud 🎁
-
-    Comenta a otros sobre este proyecto 📢
-    Paypal : https://paypal.me/litodroid
-    instagram : http://instagram.com/litodroid
+### Inicia una donacion 🎁
+ Paypal : https://paypal.me/litodroid
+ 
     inicia una donacion para un cafe.
+    Comenta a otros sobre este proyecto 📢
+    instagram : http://instagram.com/litodroid
 
 ## Puto el quien no done
